@@ -9,14 +9,12 @@ El objetivo de esta prueba es evaluar la capacidad del candidato para identifica
 ## INSTRUCCIONES INICIALES
 
 1. Crear una cuenta en [GitHub](https://github.com/).
-2. Crear un [fork](https://docs.github.com/es/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) a este repositorio.
-3. Clonar el repositorio forkeado en tu computadora.
+2. Hacer una copia del repositorio en su cuenta creada.
+3. Clonar el repositorio creado en su computadora.
 4. Úbicate en el repositorio raíz del proyecto (Ubicación del proyecto forkeado en tu computadora).
 5. Abrir el archivo `index.html` de este proyecto.
 6. Corregir los errores en el archivo index.html
-7. Ejecutar el archivo `specRunner.html` a través de un servidor local (puede usar `Live Server` en Visual Studio Code o `http.server` de Python) para ejecutar las pruebas y comprobar su desarollo.
-8. Comprobar las correcciones contra el archivo specRunner.html
-
+7. Subir los cambios realizados al repositorio.
 ----
 
 * Consejo: Usar siempre las mismas cadenas propuestas para los mensajes, de lo contrario deberá modificar el archivo `form.spec.js` para que las pruebas pasen correctamente.
@@ -94,4 +92,5 @@ Como tester, tu misión consiste en:
 
 ## RECURSOS
 * Metodos de instancia: preventDefault [https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault](https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault)
+
 * Alertas: [Alert](https://developer.mozilla.org/es/docs/Web/API/Window/alert)
